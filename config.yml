@@ -1,0 +1,39 @@
+# Twitter API credentials
+twitter:
+  consumer_key: YOUR_CONSUMER_KEY
+  consumer_secret: YOUR_CONSUMER_SECRET
+  access_token: YOUR_ACCESS_TOKEN
+  access_token_secret: YOUR_ACCESS_TOKEN_SECRET
+
+# Instagram API credentials
+instagram:
+  username: YOUR_INSTAGRAM_USERNAME
+  password: YOUR_INSTAGRAM_PASSWORD
+
+# Spotify API credentials
+spotify:
+  client_id: YOUR_SPOTIFY_CLIENT_ID
+  client_secret: YOUR_SPOTIFY_CLIENT_SECRET
+
+# YouTube API credentials
+youtube:
+  api_key: YOUR_YOUTUBE_API_KEY
+
+# Weverse API credentials
+weverse:
+  api_key: YOUR_WEVERSE_API_KEY
+
+# Schedule settings
+schedule:
+  interval: 15  # in minutes
+
+# Group information
+group:
+  name: BLACKPINK
+  spotify_id: SPOTIFY_ID
+  youtube_channel_id: YOUTUBE_CHANNEL_ID
+  weverse_id: WEVERSE_ID
+  billboard_name: BILLBOARD_NAME
+  reddit_subreddit: r/BLACKPINK
+  twitter_account: ygofficialblink
+  instagram_account: blackpinkofficial
